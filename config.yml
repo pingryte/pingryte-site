@@ -58,8 +58,12 @@ params:
   ShowToc: true
   images: ["images/papermod-cover.png"]
   hideFooter: true
+  ShowLogo: true
+  ShowTitle: false
   logo: "pingryte-logo-transparent.png"
   favicon: "favicon.ico"
+  assets:
+    customCSS: ["css/extra.css"]
 
 
 
