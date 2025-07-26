@@ -1,57 +1,29 @@
-# hugo-paperMod Example
+# Pingryte
 
-This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+**Tech, tools, and automation — without the fluff.**  
+Pingryte is a minimalist, high-performance tech blog built with [Hugo](https://gohugo.io) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.  
+Hosted on [Netlify](https://www.netlify.com/), it's designed to be fast, clean, and practical — just like the content it shares.
 
-## Install
+---
 
-Read Wiki => [hugo-PaperMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)
+## 📌 Features
 
-## Directory Tree
+- 📰 Clean homepage with profile/logo support
+- ⚡ Blazing fast with Hugo & Netlify
+- 🌗 Light and dark mode compatible
+- 🧭 Navigation with Posts and About pages
+- 🔍 Search, tags, and archive support
+- 🧩 Easily customizable via `config.yml`
 
-```
-.(site root)
-├── configTaxo.yml
-├── config.yml
-├── content
-│   ├── archives.fr.md
-│   ├── archives.md
-│   ├── posts
-│   │   ├── emoji-support.md
-│   │   ├── markdown-syntax.fa.md
-│   │   ├── markdown-syntax.fr.md
-│   │   ├── markdown-syntax.md
-│   │   ├── math-typesetting.md
-│   │   ├── papermod
-│   │   │   ├── _index.md
-│   │   │   ├── papermod-faq.md
-│   │   │   ├── papermod-features
-│   │   │   │   ├── images
-│   │   │   │   │   ├── homeinfo.jpg
-│   │   │   │   │   ├── profile.jpg
-│   │   │   │   │   └── regular.jpg
-│   │   │   │   └── index.md
-│   │   │   ├── papermod-icons.md
-│   │   │   ├── papermod-installation.md
-│   │   │   └── papermod-variables.md
-│   │   ├── placeholder-text.md
-│   │   └── rich-content.md
-│   ├── search.fr.md
-│   ├── search.md
-│   └── tags
-├── LICENSE
-├── README.md
-├── resources
-│   └── _gen
-│       ├── assets
-│       └── images
-├── static
-│   ├── android-chrome-192x192.png
-│   ├── android-chrome-512x512.png
-│   ├── apple-touch-icon.png
-│   ├── favicon-16x16.png
-│   ├── favicon-32x32.png
-│   ├── favicon.ico
-│   └── papermod-cover.png
-└── themes
-    └── hugo-PaperMod
-```
+---
+
+## 📂 Directory Structure
+
+```bash
+pingryte-site/
+├── content/           # Blog posts and page content
+├── static/            # Static assets (images, favicon, logo)
+├── assets/css/        # Custom styles (e.g. extra.css)
+├── config.yml         # Site configuration
+├── netlify.toml       # Netlify deployment config
+└── README.md
