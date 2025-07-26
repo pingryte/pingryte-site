@@ -1,6 +1,6 @@
 ---
 title: "How I Built This Site with Hugo, GitHub, and Netlify — For Free"
-date: 2025-07-26
+date: 2025-07-26T10:00:00Z
 tags: ["hugo", "netlify", "github", "static sites", "guide"]
 categories: ["tech", "how-to"]
 draft: false

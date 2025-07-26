@@ -11,6 +11,8 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts"]
+sortByDate: true
+
 
 minify:
   disableXML: true
@@ -61,6 +63,7 @@ params:
   ShowToc: true
   images: ["images/papermod-cover.png"]
   hideFooter: true
+  disableSpecial1stPost: true
 
   favicon: "favicon.ico"
   assets:
