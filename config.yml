@@ -35,6 +35,9 @@ languages:
         - name: Posts
           url: /posts/
           weight: 2
+        - name: About
+          url: /about/
+          weight: 3
 
 outputs:
   home:
