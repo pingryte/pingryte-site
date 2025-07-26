@@ -34,4 +34,5 @@ Step-by-step: from zero to deployed static site, with no cost and no complexity.
 
 Got feedback, tips, or a topic you want covered?
 
-✉️ [mail@pingryte.com](mailto:mail@pingryte.com)
+✉️ [mail@pingryte.com](mailto:mail@pingryte.com)  
+🐙 [github.com/pingryte](https://github.com/pingryte)

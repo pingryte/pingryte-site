@@ -86,15 +86,15 @@ params:
 
 
 
-  homeInfoParams:
-    Title: "Welcome to Pingryte"
-    Content: >
-      Tech, tools, and automation — without the fluff.
+# homeInfoParams:
+#   Title: "Welcome to Pingryte"
+#   Content: >
+#     Tech, tools, and automation — without the fluff.
 
-  socialIcons:
-    - name: github
-      title: GitHub
-      url: "https://github.com/pingryte"
+# socialIcons:
+#   - name: github
+#     title: GitHub
+#     url: "https://github.com/pingryte"
 
 markup:
   goldmark:
