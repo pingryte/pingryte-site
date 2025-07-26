@@ -57,6 +57,9 @@ params:
   ShowPageNums: true
   ShowToc: true
   images: ["images/papermod-cover.png"]
+  footer:
+    disable: true
+
 
   homeInfoParams:
     Title: "Welcome to Pingryte"
