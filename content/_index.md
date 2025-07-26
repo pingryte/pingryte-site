@@ -36,3 +36,7 @@ Got feedback, tips, or a topic you want covered?
 
 ✉️ [mail@pingryte.com](mailto:mail@pingryte.com)  
 🐙 [github.com/pingryte](https://github.com/pingryte)
+
+---
+
+<hr>
