@@ -25,12 +25,3 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ---
 
-## X (Twitter) Shortcode
-
-{{< x user="adityatelange" id="1724414854348357922" >}}
-
----
-
-## Vimeo Shortcode
-
-{{< vimeo 152985022 >}}
