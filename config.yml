@@ -70,7 +70,7 @@ params:
 
   # Show logo on homepage
   profileMode:
-    enabled: true
+    enabled: false
     title: "Welcome to Pingryte"
     imageUrl: "pingryte-logo-transparent.png"
     imageTitle: "Pingryte Logo"
